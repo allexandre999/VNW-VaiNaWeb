@@ -1,0 +1,32 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+header{
+    border: solid 5px red;
+    background-color: tomato;
+    height: 90px;
+    text-align: center;
+}
+
+body{
+    background-color: aqua;
+}
+
+
+
+article{
+    border: solid blue 15px;
+    margin: 50px 35px;
+    figure{
+        border: solid 5px green;
+    }
+
+    .pelicula3D{
+        width: 100px;
+    }
+}
